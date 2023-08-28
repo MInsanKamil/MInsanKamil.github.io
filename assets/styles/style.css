@@ -114,4 +114,10 @@ footer {
   aside table {
     margin: 0 auto;
   }
+  nav h1 {
+    float: none;
+  }
+  nav {
+    text-align: center;
+  }
 }
