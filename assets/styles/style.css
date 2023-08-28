@@ -1,5 +1,3 @@
-/* kita bisa membuat sebuah property styling agar dianggap penting untuk diterapkan oleh browser dan tidak memperhatikan urutannya. Kita bisa menambahkan keyword !important diakhir nilai propertinya.  */
-
 @import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
 body {
